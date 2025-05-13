@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @MadMax0417
-- 👀 I’m interested in web development.
 - 🌱 MERN Stack
 - Full Stack Developer
 - Still Learning and Growing Strong
