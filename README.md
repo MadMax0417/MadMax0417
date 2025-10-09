@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @MadMax0417
 - 🌱 MERN Stack
 - Full Stack Developer
-- Still Learning and Growing Strong
 - 📫 How to reach me : mail me : saarthistudios@gmail.com 
 - 😄 Pronouns: He/him
 
